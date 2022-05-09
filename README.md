@@ -6,4 +6,4 @@
 
 ## 3. Capturar un número e imprimir todos los números que existen entre 1 y el numero digitado
 
-## 4. Capturar un número
+## 4.Capturar un numero e imprimit toos los numeros impares que existen entre el uno y el numero digitado en una caja de texto
